@@ -18,7 +18,7 @@ This is an Python package, so you need to install [Python](https://www.python.or
 
 ### Installing
 
-Once Python is installed, please make sure [pip](https://pypi.org/project/pip/), the Python package installer, is also installed
+Once Python is installed, please make sure [pip](https://pypi.org/project/pip/), the Python package installer, is also installed. Then the OpenSolar package (named OpenSolar_Python) can be downloaded from the [Github repository](https://github.com/fengcong1992/OpenSolar_Python)
 
 ```
 pip install git+https://github.com/fengcong1992/OpenSolar_Python
