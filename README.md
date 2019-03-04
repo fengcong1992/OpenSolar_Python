@@ -7,3 +7,7 @@ Solar data is the foundation of data-driven research in solar power grid integra
 - the [Dataport](https://dataport.cloud) database. 
 
 Different from other open solar datasets that only contain meteorological data, the 4 datasets in the OpenSolar package also consists of behind-the-meter data, sky images, and solar power data with satisfactory temporal and spatial resolution and coverage. The overview, quality control methods, and potential usage of the datasets, in conjunction with the sample code of implementing the OpenSolar functions, are described. The package is expected to assist in bridging the gaps among solar energy, power systems, and machine/deep learning research.			
+
+```
+pip install git+https://github.com/fengcong1992/OpenSolar_Python
+```
