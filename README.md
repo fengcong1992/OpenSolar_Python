@@ -1,6 +1,4 @@
-# OpenSolar_Python
-The Python version of OpenSolar package
-# OpenSolar: Promoting the Openness and Accessibility of Diverse Public Solar Datasets
+# OpenSolar_Python: Promoting the Openness and Accessibility of Diverse Public Solar Datasets - Python version
 
 Solar data is the foundation of data-driven research in solar power grid integration and power system operations. Compared to other fields in data science, the openness and accessibility of solar data fall behind, which prevents solar data science from catching up with the emerging trend of data science (e.g., deep learning). In this repository, OpenSolar, an R package, is developed to enhance the openness and accessibility of publicly available solar datasets. The OpenSolar package provides access to multiple formats of data with diverse measurements in 4 datasets, which are:
 - the National Renewable Energy Laboratory (NREL) [Solar Power Data for Integration Studies (SPDIS)](https://www.nrel.gov/grid/solar-power-data.html) dataset
